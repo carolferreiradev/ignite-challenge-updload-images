@@ -13,7 +13,7 @@
 
 ## 💻 Projeto
 
-Projeto de listagem e upload de imagens - Upload de imagens durante o treinamento Ignite - Rocketseat.
+Projeto de listagem e upload de imagens - Desafio com tema 'Upload de imagens' efetuado durante o treinamento Ignite - Rocketseat.
 
 Foram usadas as seguintes tecnologias:
 
