@@ -1,4 +1,3 @@
-# upload-images-ignite
 <h1 align="center">
   upload-images-ignite
 </h1>
